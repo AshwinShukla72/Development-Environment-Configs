@@ -1,0 +1,65 @@
+{
+    // "workbench.iconTheme":"material-icon-theme",
+    "editor.minimap.enabled":false,
+    "editor.fontWeight":450,
+    "terminal.integrated.fontSize": 14,
+    // "terminal.integrated.fontSize":8.5,
+    "terminal.integrated.fontFamily":"JetBrains mono",
+    // "terminal.integrated.lineHeight":1.5,
+    "terminal.integrated.lineHeight":1,
+    "editor.lineHeight":29,
+    // "editor.lineHeight":19,
+    "editor.cursorBlinking":"phase",
+    "editor.cursorStyle":"block",
+    "workbench.editor.tabSizing":"shrink",
+    "editor.indentSize":"tabSize",
+    "editor.fontLigatures":true,
+    "atlascode.jira.enabled":false,
+    "editor.fontFamily":"JetBrains mono ,Consolas, 'Courier New', monospace",
+    "editor.fontSize":10.80,
+    // "editor.fontSize":7,
+    "editor.autoClosingOvertype":"never",
+    "task.saveBeforeRun":"prompt",
+    "editor.tabSize":2,
+    "editor.stickyScroll.enabled":true,
+    "editor.guides.bracketPairs":true,
+    "diffEditor.ignoreTrimWhitespace":false,
+    "files.watcherExclude":{
+      "**/.git/objects/**":true,
+      "**/.git/subtree-cache/**":true,
+      "**/node_modules/*/**":true,
+      "**/.hg/store/**":true
+    },
+    "material-icon-theme.hidesExplorerArrows":false,
+    "workbench.colorCustomizations":{
+      "[Material Theme High Contrast]":{
+        
+      }
+    },
+    "workbench.colorTheme":"Catppuccin Mocha",
+    "window.zoomLevel":1,
+    "mdb.defaultLimit":30,
+    "mdb.confirmRunAll":false,
+    "editor.unicodeHighlight.includeComments":true,
+    "atlascode.bitbucket.enabled":true,
+    "redhat.telemetry.enabled":true,
+    "workbench.startupEditor": "none",
+    "workbench.iconTheme": "bearded-icons",
+    "workbench.sideBar.location": "right",
+    "yaml.schemas": {
+      "file:///c%3A/Users/lenovo/.vscode/extensions/atlassian.atlascode-3.0.10/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
+    },
+    "[javascript]": {
+      "editor.defaultFormatter": "biomejs.biome"
+    },
+    "[typescript]": {
+      "editor.defaultFormatter": "biomejs.biome"
+    },
+    "[json]": {
+      "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "cSpell.userWords": [
+      "atleast",
+      "Hono"
+    ]
+}

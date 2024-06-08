@@ -1,0 +1,38 @@
+{
+    "editor.minimap.enabled":false,
+    "editor.fontWeight":450,
+    "terminal.integrated.fontSize": 14,
+    "terminal.integrated.fontFamily":"JetBrains mono",
+    "terminal.integrated.lineHeight":1,
+    "editor.lineHeight":29,
+    "editor.cursorBlinking":"phase",
+    "editor.cursorStyle":"block",
+    "workbench.editor.tabSizing":"shrink",
+    "editor.indentSize":"tabSize",
+    "editor.fontLigatures":true,
+    "editor.fontFamily":"JetBrains mono ,Consolas, 'Courier New', monospace",
+    "editor.fontSize":11.1,
+    "editor.autoClosingOvertype":"never",
+    "task.saveBeforeRun":"prompt",
+    "editor.tabSize":2,
+    "editor.stickyScroll.enabled":true,
+    "editor.guides.bracketPairs":true,
+    "diffEditor.ignoreTrimWhitespace":false,
+    "files.watcherExclude":{
+      "**/.git/objects/**":true,
+      "**/.git/subtree-cache/**":true,
+      "**/node_modules/*/**":true,
+      "**/.hg/store/**":true
+    },
+    "workbench.colorCustomizations":{
+      "[Material Theme High Contrast]":{
+        
+      }
+    },
+    "workbench.colorTheme":"poimandres",
+    "window.zoomLevel":1,
+    "editor.unicodeHighlight.includeComments":true,
+    "redhat.telemetry.enabled":true,
+    "workbench.startupEditor": "none",
+    "workbench.iconTheme": "bearded-icons"
+}
